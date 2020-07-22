@@ -82,14 +82,13 @@ experiences:
       company: ABC-MIB ,Yangon ,Myanmar.
       details: |
           - Monitor and test system performance, provide system statistics and reports
-          - Handling the operation and maintenance for IT infrastructure, Application, ERP, Security
-          - Maintain key devices, systems, and infrastructure to ensure availability, accessibility, reliability, security, and efficiency
+          - Handling the operation and maintenance for IT infrastructure, Application, ERP, Security and virtualization ( VmWare EsXI and oVIrt )
           - Providing DevOps architecture implementation and operational support 
-          - Web Application Development (php, Laravel, Wordpress, Magento)
+          - Web Application Development (php, Laravel, Wordpress, Magento) on Ubuntu and CentOS
           - Database Administration (Mysql primarily) 
           - Automate the development and test automation processes through CI/CD pipeline (GitLab CI/CD & Github Action)
           - experiences with server-side technologies such as Apache, Nginx & HA Proxy
-          - Containerize  Application with Docker & Orchestration with Kubernetes
+          - Containerize  Application with Docker & Orchestration with Kubernetes and Openshift
           - Cloud Administration ( Aws, Digital Ocean, Linode, GCP )
          
     - role: IT Executive
@@ -136,7 +135,7 @@ projects:
         link: "#"
         tagline: "Server Administration and Deployment on Ecommerce website Deployment"
         
-      - title: Other Inhuose & Private Projects
+      - title: Other Inhouse & Private Projects
         link: "#"
         tagline: ""
 
@@ -168,13 +167,13 @@ skills:
 
     toolset:
       - name: Linux SysAdmin
-        level: 98%
+        level: 95%
 
       - name: DevOps
         level: 80%
 
       - name: Bash Scripting
-        level: 95%
+        level: 90%
 
       - name: CI / CD
         level: 75%
@@ -189,7 +188,7 @@ skills:
         level: 85%
         
       - name: Python
-        level: 60%
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
