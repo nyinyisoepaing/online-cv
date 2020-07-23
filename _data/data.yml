@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nyi Nyi Soe Paing
-    tagline: Server Administrator
+    tagline: Linux Engineer
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,12 +25,12 @@ sidebar:
 #     codewars:
 #     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Myanmar
-        level: Native
+    # languages:
+    #   - idiom: Myanmar
+    #     level: Native
 
-      - idiom: English
-        level: Proficiency
+    #   - idiom: English
+    #     level: Proficiency
 
     interests:
       - item: Scripting
@@ -43,19 +43,30 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Objective
     summary: |
       A challenging and responsible position which would effectively utilize prior experience, training and abilities, 
       offering opportunities for professional growth and advancement.
 
 career-about:
-  title: Career About
+  title: Personal Details
   summary: |
-    A challenging and responsible position which would effectively utilize prior experience, training and abilities, 
-    offering opportunities for professional growth and advancement.
+    Gender : Male
+    Date of Birth : 27 May 1997
+    NRC No : 11/KAPHANA(N)112305
+    Nationality : Myanmar
+    Religion : Buddhist
+    Marital Status : Single
+    Languages : English, Myanmar
+
+
+career-position:
+  title: Job Position
+  summary: |
+    Linux Engineer
       
 education:
-    - degree: Bachelor Of Art English (3rd year)
+    - degree: Bachelor Of Art English (4th year)
       university: Distance Education (Dagon University)
       time: 2017 - present
       details: |
@@ -125,7 +136,7 @@ projects:
         link: "https://thecottonfield.jp"
         tagline: "Server Administration and Deployment  on Ecommerce website Deployment"
 
-      - title: Zay2Go
+      - title: Zay2Go(D2D Flower)
         link: "#"
         tagline: "Server Administration and Deployment on Backend Website & Application ."
         
@@ -138,10 +149,10 @@ projects:
         tagline: "Information Website Deployment"
         
       - title: ABC Mall
-        link: "#"
+        link: "https://abcmall.com.mm"
         tagline: "Server Administration and Deployment on Ecommerce website Deployment"
         
-      - title: Other Inhouse & Private Projects
+      - title: Other Inhouse Infra & Private Projects
         link: "#"
         tagline: ""
 
