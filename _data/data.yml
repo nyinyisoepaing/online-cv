@@ -51,19 +51,19 @@ career-profile:
 career-about:
   title: Personal Details
   summary: |
-    Gender : Male
+    Gender         : Male
 
-    Date of Birth : 27 May 1997
+    Date of Birth  : 27 May 1997
 
-    NRC No : 11/KAPHANA(N)112305
+    NRC No         : 11/KAPHANA(N)112305
 
-    Nationality : Myanmar
+    Nationality    : Myanmar
 
-    Religion : Buddhist
+    Religion       : Buddhist
 
     Marital Status : Single
-    
-    Languages : English, Myanmar
+
+    Languages      : English, Myanmar
 
 
 career-position:
