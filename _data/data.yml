@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nyi Nyi Soe Paing
-    tagline: Linux Engineer
+    tagline: SYSTEM ENGINEER
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -64,12 +64,14 @@ career-about:
     Marital Status : Single
 
     Languages      : English, Myanmar
+    
+    Address        : NO (815), Thamadi 5th street, Thingangyun Township, Yangon
 
 
 career-position:
   title: Job Position
   summary: |
-    Linux Engineer
+    SYSTEM ENGINEER
       
 education:
     - degree: Bachelor Of Art English (4th year)
